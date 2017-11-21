@@ -1,6 +1,6 @@
-# Request response echo drill
+# Express request response echo drill
 
-[GitHub](https://github.com/Thinkful-Ed/request-response-echo-drill) | [Glitch](https://glitch.com/edit/#!/request-response-echo-drill)
+[GitHub](https://github.com/Thinkful-Ed/express-request-response-echo-drill) | [Glitch](https://glitch.com/edit/#!/express-request-response-echo-drill)
 
 For this drill, you need to implement a GET endpoint at `/echo/:what`, where `:what` is [named route parameter](https://expressjs.com/en/guide/routing.html#route-parameters).
 
